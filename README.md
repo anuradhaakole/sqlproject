@@ -26,7 +26,7 @@ Data Filtering & Optimization: Efficient querying with indexes and filtering.
 ## Key Insights & Queries Solved
 The project is structured into different difficulty levels:
 
-##Easy Level (Basic SQL Queries)
+### Easy Level (Basic SQL Queries)
 Retrieve customer details who have made at least one order.
 Count total orders per customer.
 Find all orders where the total amount exceeds ₹500.
@@ -39,7 +39,7 @@ Identify the most frequently used payment method.
 Calculate the average delivery time per rider.
 Retrieve the top 5 restaurants with the highest average rating (with at least 50 reviews).
 
-##Hard Level (Complex Queries & Case Statements)
+### Hard Level (Complex Queries & Case Statements)
 Identify loyal customers (customers with over 20 orders and ₹10,000+ spent).
 Detect late deliveries (orders that took more than 45 minutes).
 Compute total monthly revenue.
