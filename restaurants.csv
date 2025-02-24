@@ -1,0 +1,51 @@
+restaurant_id,restaurant_name,cuisine_type,average_rating,total_reviews,location
+1,Restaurant_1,Italian,3.4,440,Location_1
+2,Restaurant_2,Mexican,4.7,256,Location_2
+3,Restaurant_3,Chinese,4.7,177,Location_3
+4,Restaurant_4,Mexican,4.3,302,Location_4
+5,Restaurant_5,Fast Food,5.0,115,Location_5
+6,Restaurant_6,Chinese,3.0,419,Location_6
+7,Restaurant_7,Indian,3.7,42,Location_7
+8,Restaurant_8,Chinese,4.0,244,Location_8
+9,Restaurant_9,Italian,3.2,95,Location_9
+10,Restaurant_10,Indian,4.7,120,Location_10
+11,Restaurant_11,Fast Food,4.1,439,Location_11
+12,Restaurant_12,Fast Food,4.3,479,Location_12
+13,Restaurant_13,Mexican,3.8,45,Location_13
+14,Restaurant_14,Italian,4.4,491,Location_14
+15,Restaurant_15,Mexican,3.1,390,Location_15
+16,Restaurant_16,Italian,4.6,33,Location_16
+17,Restaurant_17,Fast Food,4.1,231,Location_17
+18,Restaurant_18,Chinese,4.5,187,Location_18
+19,Restaurant_19,Indian,3.7,298,Location_19
+20,Restaurant_20,Mexican,4.1,266,Location_20
+21,Restaurant_21,Mexican,4.4,457,Location_21
+22,Restaurant_22,Mexican,3.9,301,Location_22
+23,Restaurant_23,Mexican,3.5,253,Location_23
+24,Restaurant_24,Chinese,4.9,250,Location_24
+25,Restaurant_25,Chinese,4.7,236,Location_25
+26,Restaurant_26,Chinese,4.8,338,Location_26
+27,Restaurant_27,Chinese,4.5,436,Location_27
+28,Restaurant_28,Mexican,3.4,428,Location_28
+29,Restaurant_29,Mexican,4.7,248,Location_29
+30,Restaurant_30,Mexican,3.7,346,Location_30
+31,Restaurant_31,Mexican,4.3,27,Location_31
+32,Restaurant_32,Mexican,4.1,472,Location_32
+33,Restaurant_33,Mexican,3.5,31,Location_33
+34,Restaurant_34,Italian,4.0,174,Location_34
+35,Restaurant_35,Mexican,3.2,267,Location_35
+36,Restaurant_36,Chinese,4.6,402,Location_36
+37,Restaurant_37,Mexican,3.9,197,Location_37
+38,Restaurant_38,Chinese,4.5,450,Location_38
+39,Restaurant_39,Indian,4.3,115,Location_39
+40,Restaurant_40,Chinese,3.6,478,Location_40
+41,Restaurant_41,Chinese,3.7,30,Location_41
+42,Restaurant_42,Mexican,3.9,451,Location_42
+43,Restaurant_43,Indian,3.5,159,Location_43
+44,Restaurant_44,Indian,3.4,358,Location_44
+45,Restaurant_45,Mexican,3.2,73,Location_45
+46,Restaurant_46,Italian,4.2,110,Location_46
+47,Restaurant_47,Fast Food,4.4,184,Location_47
+48,Restaurant_48,Fast Food,4.4,278,Location_48
+49,Restaurant_49,Chinese,4.0,309,Location_49
+50,Restaurant_50,Italian,4.5,326,Location_50

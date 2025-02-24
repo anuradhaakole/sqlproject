@@ -1,0 +1,151 @@
+order_id,customer_id,restaurant_id,order_date,total_amount,payment_mode,order_status
+1,94,31,2024-02-05,809.41,UPI,Cancelled
+2,100,40,2024-02-18,259.22,Cash,Pending
+3,14,14,2024-02-01,721.16,Net Banking,Cancelled
+4,77,22,2024-02-06,656.1,Cash,Cancelled
+5,72,16,2024-02-09,735.15,Cash,Cancelled
+6,33,33,2024-02-09,949.99,Credit Card,Cancelled
+7,106,44,2024-02-09,608.04,Credit Card,Cancelled
+8,54,20,2024-02-10,219.8,Credit Card,Pending
+9,18,17,2024-02-15,883.6,UPI,Delivered
+10,38,35,2024-02-01,404.22,Credit Card,Cancelled
+11,100,24,2024-02-14,784.62,Net Banking,Cancelled
+12,115,25,2024-02-12,853.56,Cash,Pending
+13,89,45,2024-02-18,785.9,Credit Card,Pending
+14,62,25,2024-02-01,602.19,UPI,Cancelled
+15,148,32,2024-02-19,703.78,Net Banking,Delivered
+16,121,25,2024-02-12,114.61,UPI,Cancelled
+17,124,3,2024-02-06,444.39,Cash,Pending
+18,120,35,2024-02-05,428.25,UPI,Delivered
+19,125,26,2024-02-20,829.94,Credit Card,Pending
+20,108,1,2024-02-14,953.21,UPI,Pending
+21,65,14,2024-02-05,252.53,Cash,Cancelled
+22,21,33,2024-02-08,558.53,Credit Card,Delivered
+23,148,12,2024-02-01,156.76,Net Banking,Delivered
+24,51,28,2024-02-09,496.18,Cash,Pending
+25,90,27,2024-02-15,974.06,UPI,Pending
+26,34,48,2024-02-15,212.54,Net Banking,Pending
+27,93,2,2024-02-03,643.75,Credit Card,Delivered
+28,102,28,2024-02-20,897.55,Net Banking,Pending
+29,88,45,2024-02-17,743.09,Credit Card,Pending
+30,12,39,2024-02-10,323.16,Credit Card,Cancelled
+31,141,27,2024-02-01,397.12,Cash,Delivered
+32,73,17,2024-02-08,646.07,Credit Card,Pending
+33,136,7,2024-02-17,664.84,Net Banking,Delivered
+34,139,46,2024-02-10,898.01,Net Banking,Cancelled
+35,69,4,2024-02-01,470.05,Credit Card,Pending
+36,109,17,2024-02-03,287.7,Net Banking,Pending
+37,61,49,2024-02-12,858.17,UPI,Delivered
+38,67,19,2024-02-18,789.21,UPI,Cancelled
+39,97,14,2024-02-05,721.4,UPI,Pending
+40,120,13,2024-02-03,205.84,Credit Card,Cancelled
+41,119,5,2024-02-02,658.23,Net Banking,Pending
+42,149,48,2024-02-12,163.74,Credit Card,Cancelled
+43,102,33,2024-02-14,121.75,UPI,Cancelled
+44,144,21,2024-02-10,688.9,Credit Card,Pending
+45,97,41,2024-02-07,704.1,Cash,Cancelled
+46,91,33,2024-02-03,958.91,UPI,Delivered
+47,45,17,2024-02-08,621.15,Credit Card,Pending
+48,106,11,2024-02-10,720.87,UPI,Delivered
+49,129,22,2024-02-10,612.47,Credit Card,Pending
+50,101,30,2024-02-11,381.83,Credit Card,Cancelled
+51,91,27,2024-02-15,302.5,Net Banking,Cancelled
+52,40,44,2024-02-07,746.45,Net Banking,Delivered
+53,67,22,2024-02-18,857.4,Net Banking,Delivered
+54,57,14,2024-02-10,668.22,Credit Card,Cancelled
+55,123,26,2024-02-20,335.29,Cash,Delivered
+56,53,29,2024-02-19,402.68,Cash,Pending
+57,18,12,2024-02-09,912.23,Cash,Delivered
+58,30,45,2024-02-01,556.44,Credit Card,Cancelled
+59,50,18,2024-02-20,910.29,Cash,Pending
+60,21,13,2024-02-08,229.32,Net Banking,Pending
+61,9,2,2024-02-18,842.1,Cash,Delivered
+62,35,14,2024-02-06,301.67,Cash,Delivered
+63,119,1,2024-02-11,234.09,Cash,Pending
+64,54,46,2024-02-17,195.63,Credit Card,Pending
+65,86,1,2024-02-14,259.68,Credit Card,Delivered
+66,150,39,2024-02-01,879.64,Credit Card,Delivered
+67,123,41,2024-02-15,791.16,UPI,Delivered
+68,21,26,2024-02-08,142.77,UPI,Delivered
+69,127,6,2024-02-05,476.43,UPI,Cancelled
+70,93,27,2024-02-20,499.57,Credit Card,Pending
+71,28,4,2024-02-15,481.15,Cash,Pending
+72,44,29,2024-02-04,305.77,Cash,Cancelled
+73,54,6,2024-02-01,926.97,Credit Card,Pending
+74,95,13,2024-02-15,359.48,Cash,Pending
+75,112,49,2024-02-04,233.61,Credit Card,Pending
+76,94,45,2024-02-05,134.46,Cash,Delivered
+77,109,29,2024-02-15,498.45,Net Banking,Pending
+78,12,5,2024-02-12,950.54,Cash,Pending
+79,118,38,2024-02-07,466.54,Credit Card,Pending
+80,7,5,2024-02-09,757.07,Cash,Cancelled
+81,65,47,2024-02-08,213.98,Cash,Delivered
+82,3,23,2024-02-09,824.11,Credit Card,Cancelled
+83,141,25,2024-02-15,587.71,Net Banking,Pending
+84,4,23,2024-02-05,720.24,UPI,Pending
+85,37,16,2024-02-16,491.12,Credit Card,Pending
+86,11,31,2024-02-18,852.67,UPI,Delivered
+87,2,25,2024-02-17,285.58,Cash,Delivered
+88,93,41,2024-02-14,394.73,Net Banking,Cancelled
+89,124,18,2024-02-19,903.25,UPI,Delivered
+90,71,18,2024-02-20,284.31,Cash,Delivered
+91,111,6,2024-02-05,437.63,Credit Card,Cancelled
+92,30,45,2024-02-06,839.84,Credit Card,Pending
+93,107,25,2024-02-16,899.19,Cash,Pending
+94,64,11,2024-02-13,477.95,Cash,Cancelled
+95,86,10,2024-02-01,245.07,Cash,Pending
+96,86,11,2024-02-11,744.74,Cash,Delivered
+97,107,20,2024-02-01,588.12,Net Banking,Cancelled
+98,78,11,2024-02-18,587.81,Cash,Delivered
+99,11,21,2024-02-19,922.27,Credit Card,Cancelled
+100,137,33,2024-02-17,940.59,Credit Card,Delivered
+101,59,30,2024-02-02,224.24,Cash,Cancelled
+102,109,20,2024-02-03,739.65,Cash,Pending
+103,58,23,2024-02-05,889.48,UPI,Delivered
+104,81,45,2024-02-04,180.26,Cash,Pending
+105,21,30,2024-02-04,301.05,Net Banking,Pending
+106,145,16,2024-02-14,569.33,Net Banking,Pending
+107,140,30,2024-02-06,903.7,Cash,Pending
+108,79,27,2024-02-03,327.48,Credit Card,Cancelled
+109,38,44,2024-02-16,545.53,Credit Card,Pending
+110,7,50,2024-02-14,865.27,Cash,Delivered
+111,128,22,2024-02-04,359.78,UPI,Pending
+112,70,24,2024-02-19,771.65,Net Banking,Delivered
+113,115,35,2024-02-02,986.82,UPI,Delivered
+114,111,6,2024-02-12,841.54,UPI,Cancelled
+115,119,41,2024-02-19,975.39,Net Banking,Pending
+116,74,32,2024-02-11,475.49,UPI,Pending
+117,79,24,2024-02-09,275.12,UPI,Pending
+118,37,9,2024-02-11,989.04,UPI,Pending
+119,52,18,2024-02-04,172.69,UPI,Delivered
+120,109,41,2024-02-20,210.13,Cash,Delivered
+121,77,40,2024-02-18,476.54,Cash,Delivered
+122,16,26,2024-02-05,520.46,Credit Card,Cancelled
+123,109,10,2024-02-08,327.29,UPI,Cancelled
+124,54,23,2024-02-12,439.07,Net Banking,Delivered
+125,29,12,2024-02-15,670.89,Credit Card,Delivered
+126,6,33,2024-02-02,538.39,Cash,Delivered
+127,92,19,2024-02-17,641.89,Cash,Pending
+128,70,41,2024-02-17,575.92,UPI,Cancelled
+129,31,2,2024-02-07,400.24,UPI,Pending
+130,63,23,2024-02-06,457.99,Credit Card,Cancelled
+131,20,41,2024-02-16,232.42,Net Banking,Delivered
+132,136,50,2024-02-09,555.94,Cash,Pending
+133,2,20,2024-02-14,239.47,Cash,Delivered
+134,8,35,2024-02-20,228.52,Credit Card,Pending
+135,45,50,2024-02-04,242.12,Cash,Cancelled
+136,113,41,2024-02-04,161.46,Credit Card,Pending
+137,57,1,2024-02-15,751.65,Cash,Cancelled
+138,129,15,2024-02-11,265.26,Cash,Delivered
+139,83,50,2024-02-02,254.7,Credit Card,Pending
+140,68,49,2024-02-04,894.71,Credit Card,Cancelled
+141,91,16,2024-02-17,265.4,Net Banking,Delivered
+142,129,5,2024-02-10,701.66,Cash,Pending
+143,129,49,2024-02-20,540.88,Cash,Cancelled
+144,35,48,2024-02-09,155.63,Cash,Cancelled
+145,105,39,2024-02-17,825.77,Net Banking,Pending
+146,97,47,2024-02-15,632.8,UPI,Delivered
+147,69,40,2024-02-12,764.92,UPI,Delivered
+148,6,10,2024-02-06,105.24,Net Banking,Pending
+149,41,37,2024-02-19,874.86,Credit Card,Delivered
+150,118,39,2024-02-04,411.55,UPI,Delivered
